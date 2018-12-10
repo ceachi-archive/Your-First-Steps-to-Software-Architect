@@ -31,3 +31,7 @@ Code Quality
 - Code Review Best Practices - https://www.youtube.com/watch?v=hVJGu0xdXII
 - Static Code Analysis Best Practices - https://www.youtube.com/watch?v=rB_BaftN3nE
 
+Cracking Coding Interview:
+Step by step path: https://www.quora.com/How-can-I-prepare-myself-to-be-a-software-engineer-at-Google
+Some Java practice interviews: https://www.youtube.com/watch?v=3hgYHXDVh-o&list=PLF269DA4FF4E1EE26
+
