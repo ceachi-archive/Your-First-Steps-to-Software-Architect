@@ -40,3 +40,6 @@
 
 # Books
 - Data Science Books: https://github.com/faizalazman/Data-Science-Books
+
+# Java Core
+- My Java Core course : https://fmi-ub-eap.github.io/
