@@ -36,3 +36,7 @@
 - Some Java practice interviews: https://www.youtube.com/watch?v=3hgYHXDVh-o&list=PLF269DA4FF4E1EE26
 # AI 
 - register here: https://www.bucharestschoolofai.com/
+
+
+# Books
+- Data Science Books: https://github.com/faizalazman/Data-Science-Books
