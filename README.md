@@ -43,3 +43,6 @@
 
 # Java Core
 - My Java Core course : https://fmi-ub-eap.github.io/
+
+#Interviews
+Preparing step by step: https://github.com/in28minutes/interview-guide
