@@ -34,6 +34,8 @@
 # Cracking Coding Interview
 - Step by step path: https://www.quora.com/How-can-I-prepare-myself-to-be-a-software-engineer-at-Google
 - Some Java practice interviews: https://www.youtube.com/watch?v=3hgYHXDVh-o&list=PLF269DA4FF4E1EE26
+- Preparing step by step: https://github.com/in28minutes/interview-guide
+- Questions and answers: https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers
 # AI 
 - register here: https://www.bucharestschoolofai.com/
 
@@ -44,6 +46,5 @@
 # Java Core
 - My Java Core course : https://fmi-ub-eap.github.io/
 
-# Interviews
-Preparing step by step: https://github.com/in28minutes/interview-guide
-Questions and answers: https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers
+# Spring
+Web services: https://github.com/in28minutes/spring-web-services/
