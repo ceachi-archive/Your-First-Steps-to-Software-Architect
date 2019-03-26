@@ -42,6 +42,7 @@
 
 # Books
 - Data Science Books: https://github.com/faizalazman/Data-Science-Books
+- Free programming Books : https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
 
 # Java Core
 - My Java Core course : https://fmi-ub-eap.github.io/
